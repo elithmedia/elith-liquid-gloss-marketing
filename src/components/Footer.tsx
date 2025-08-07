@@ -31,7 +31,6 @@ const Footer: React.FC = () => {
               <div className="space-y-2 text-sm text-foreground/70">
                 <p>CUI: RO[XXXXXXXX]</p>
                 <p>J40/[XXXX]/2020</p>
-                <p>Capital social: [XXX] RON</p>
               </div>
             </div>
 
@@ -47,7 +46,7 @@ const Footer: React.FC = () => {
                 </div>
                 <div className="flex items-center space-x-2">
                   <Phone className="w-4 h-4 text-foreground/70" />
-                  <span className="text-foreground/80">+40 XXX XXX XXX</span>
+                  <span className="text-foreground/80">+40 757 069 034</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Mail className="w-4 h-4 text-foreground/70" />
