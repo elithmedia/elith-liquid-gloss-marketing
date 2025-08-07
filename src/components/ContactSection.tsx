@@ -82,7 +82,7 @@ const ContactSection: React.FC = () => {
                   <div>
                     <h3 className="font-semibold mb-1">Adresă / Address</h3>
                     <p className="text-foreground/80">
-                      Strada Piata Presei Libere 1<br />
+                      Strada Piata Presei Libere 1, Corp A3, Et. 4<br />
                       București, România<br />
                       Cod poștal: 013701
                     </p>
