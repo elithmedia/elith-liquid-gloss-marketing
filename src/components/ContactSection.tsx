@@ -82,9 +82,9 @@ const ContactSection: React.FC = () => {
                   <div>
                     <h3 className="font-semibold mb-1">Adresă / Address</h3>
                     <p className="text-foreground/80">
-                      Strada Exemplu 123<br />
+                      Strada Piata Presei Libere 1<br />
                       București, România<br />
-                      Cod poștal: 010101
+                      Cod poștal: 013701
                     </p>
                   </div>
                 </div>
@@ -95,7 +95,7 @@ const ContactSection: React.FC = () => {
                   <Phone className="w-6 h-6 text-foreground/70 mt-1" />
                   <div>
                     <h3 className="font-semibold mb-1">Telefon / Phone</h3>
-                    <p className="text-foreground/80">+40 XXX XXX XXX</p>
+                    <p className="text-foreground/80">+40 757 069 034</p>
                   </div>
                 </div>
               </div>
