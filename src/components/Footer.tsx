@@ -41,7 +41,7 @@ const Footer: React.FC = () => {
                 <div className="flex items-center space-x-2">
                   <MapPin className="w-4 h-4 text-foreground/70" />
                   <span className="text-foreground/80">
-                    Strada Exemplu 123, București
+                    Strada Piata Presei Libere 1, Corp A3, Et. 4, București
                   </span>
                 </div>
                 <div className="flex items-center space-x-2">
